@@ -1,3 +1,4 @@
+![Snake animation](https://github.com/williansilva51/williansilva51/blob/output/github-contribution-grid-snake.svg)
 <h1>Willian Silva🔥</h1>
 
 
@@ -24,9 +25,7 @@ Hey, I'm 18 years old, and I'm from Tauá/CE. I'm a beginner in programming, but
 
 
 <div>
-<a href="https://github.com/WillianSilva51">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianSilva51&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=WillianSilva51&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/williansilva51">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williansilva51&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=williansilva51&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-![Snake animation](https://github.com/WillianSilva51/WillianSilva51/blob/output/github-contribution-grid-snake.svg)

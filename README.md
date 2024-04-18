@@ -30,7 +30,7 @@
 <div>
   
  <h2>Sobre Mim / About ME 💬 :</h2>
-    <img align="right" height="340cm" src="https://github.com/WillianSilva51/WillianSilva51/blob/main/assets/octocat-1713400518478.png"/> 
+    <img align="right" height="320cm" src="https://github.com/WillianSilva51/WillianSilva51/blob/main/assets/octocat-1713400518478.png"/> 
   <h3>- Aprendendo / Learning :</h3>
     <ul>
       <li>⚡ Algoritmos & Estruturas de Dados</li>
@@ -63,5 +63,5 @@ Se você quiser entrar em contato comigo sobre alguma dúvida, jogar, ou sobre q
 <h1></h1>
   <a href="https://github.com/WillianSilva51">
   <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=WillianSilva51&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianSilva51&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianSilva51&layout=compact&langs_count=7&theme=dracula"/>
 </div>

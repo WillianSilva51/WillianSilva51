@@ -40,7 +40,7 @@
  <h3>- Hobbies :</h3>
   <ul>
     <li>⚡ Assistir Animes, filmes, séries</li>
-    <li>⚡ Tocar Violãp</li>
+    <li>⚡ Tocar Violão</li>
     <li>⚡ Escutar Música</li>
     <li>⚡ Jogar Jogos</li>
   </ul>

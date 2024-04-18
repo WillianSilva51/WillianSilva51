@@ -6,10 +6,10 @@
   
   <h1>Willian Silva🔥</h1>
   
-  Opa, tenho 18 anos, e sou de Tauá/CE, sou iniciante em programação, mas é algo que estou gostando muito de estudar, estou cursando Ciência da Computação na UFC e pretendo me especializar em     inteligência artificial.
+  Opa, tenho 18 anos, e sou de Tauá - CE, sou iniciante em programação, mas é algo que estou gostando muito de estudar, estou cursando Ciência da Computação na UFC e pretendo me especializar em     inteligência artificial.
 </br>
 </br>
-  Hey, I'm 18 years old, and I'm from Tauá/CE. I'm a beginner in programming, but it's something I'm really enjoying studying. I'm studying Computer Science at UFC and I plan to specialize in artificial intelligence.
+  Hey, I'm 18 years old, and I'm from Tauá - CE. I'm a beginner in programming, but it's something I'm really enjoying studying. I'm studying Computer Science at UFC and I plan to specialize in artificial intelligence.
 </br>
   
 </div>

@@ -6,7 +6,7 @@
   
   <h1>Willian Silva🔥</h1>
   
-  Opa, tenho 18 anos, e sou de Tauá - CE, sou iniciante em programação, mas é algo que estou gostando muito de estudar, estou cursando Ciência da Computação na UFC e pretendo me especializar em     inteligência artificial.
+  Opa, tenho 18 anos, e sou de Tauá - CE, sou iniciante em programação, mas é algo que estou gostando muito de estudar, estou cursando Ciência da Computação na UFC e pretendo me especializar em inteligência artificial.
 </br>
 </br>
   Hey, I'm 18 years old, and I'm from Tauá - CE. I'm a beginner in programming, but it's something I'm really enjoying studying. I'm studying Computer Science at UFC and I plan to specialize in artificial intelligence.
@@ -36,21 +36,13 @@
       <li>⚡ Algoritmos & Estruturas de Dados</li>
       <li>⚡ C & C++</li>
     </ul>
-    
- <h3>- Hobbies :</h3>
-  <ul>
-    <li>⚡ Assistir Animes, filmes, séries</li>
-    <li>⚡ Tocar Violão</li>
-    <li>⚡ Escutar Música</li>
-    <li>⚡ Jogar Jogos</li>
-  </ul>
 
 </div>
 
 </div>
 <h2>Contate-me / Contact Me 📱 :</h2>
  <img align="right" height="270cm" src="https://media1.tenor.com/m/xZ5SDUwoDgYAAAAC/jojo-pose-jotaro.gif"/> 
-Se você quiser entrar em contato comigo sobre alguma dúvida, jogar, ou sobre qualquer coisa, pode entrar em contato comigo, tentarei responder o mais rápido possível. 😉
+Se você quiser entrar em contato comigo sobre alguma dúvida, pode entrar em contato comigo, tentarei responder o mais rápido possível. 😉
 </br></br>
   <a href="https://www.linkedin.com/in/willian-silva01/" target="_blank"><img loading="lazy" height="50cm"src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" target="_blank"></a>
   <a href="mailto:antonio.willian051@gmail.com" target="_blank"><img loading="lazy" height="50cm" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" target="_blank"></a>

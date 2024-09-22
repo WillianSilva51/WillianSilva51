@@ -30,7 +30,6 @@
 <div>
   
  <h2>Sobre Mim / About ME 💬 :</h2>
-    <img align="right" height="320cm" src="https://github.com/WillianSilva51/WillianSilva51/blob/main/assets/octocat-1713400518478.png"/> 
   <h3>- Aprendendo / Learning :</h3>
     <ul>
       <li>⚡ Algoritmos & Estruturas de Dados</li>

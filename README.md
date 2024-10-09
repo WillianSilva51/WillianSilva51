@@ -32,7 +32,7 @@
  <details>
     <img loading="lazy" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
 
- <summary> <h3>- Aprendendo / Learning :</h3> </summary>
+ <summary> <h3> Aprendendo / Learning :</h3> </summary>
  
 ```js
 import Desenvolvedor from "WillianSilva51";
@@ -70,7 +70,7 @@ Se você quiser entrar em contato comigo sobre alguma dúvida, pode entrar em co
       <img
         align="left"
         loading="lazy"
-        src="https://github-readme-stats.vercel.app/api?username=WillianSilva51&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"
+        src="https://github-readme-stats.vercel.app/api?username=WillianSilva51&theme=codeSTACKr&show_icons=true&include_all_commits=true&count_private=true"
         alt="Github Stats"
       />
     </td>

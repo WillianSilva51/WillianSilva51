@@ -14,23 +14,28 @@
 </div>
 
 <div>
-  
-  <h2>Linguagens e Ferramentas 👨‍💻 🛠 :</h2>
+  <h2>Linguagens 👨‍💻:</h2>
     <img height="65cm" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-    <img height="65cm" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+    <img height="65cm" loading="lazy" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
     <img height="65cm" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img height="65cm" loading="lazy" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
+</div>
+
+<div>
+  <h2>Ferramentas 🛠:</h2>
     <img height="65cm" loading="lazy" src="https://github.com/WillianSilva51/WillianSilva51/assets/161375086/993abfb3-5978-4623-bc0b-44cc42e6d65b"/>
     <img height="65cm" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
     <img height="65cm" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
     <img height="65cm" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-          
+    <img height="65cm" loading="lazy" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />     
+    <img height="65cm" loading="lazy" src="https://ollama.com/public/assets/c889cc0d-cb83-4c46-a98e-0d0e273151b9/42f6b28d-9117-48cd-ac0d-44baaf5c178e.png" />
 </div>
 
 <div>
 
  ## Sobre Mim / About ME 💬 :
- <details>
-    <img loading="lazy" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
+ 
+  <img loading="lazy" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
 
  <summary> <h3> Aprendendo / Learning :</h3> </summary>
  
@@ -39,12 +44,12 @@ import Desenvolvedor from "WillianSilva51";
 
 class Estudos extends Desenvolvedor
 {
+  ⚡ POO;
   ⚡ Algoritmos;
   ⚡ Estruturas de Dados;
-  ⚡ C & C++;
+  ⚡ JAVA & C++;
 }
 ```
-</details>
 
 <br>
 </div>

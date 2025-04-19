@@ -5,10 +5,10 @@
   
   # Willian Silva🔥
   
-  Opa, tenho 18 anos, e sou de Tauá - CE, sou iniciante em programação, mas é algo que estou gostando muito de estudar, estou cursando Ciência da Computação na UFC e pretendo me especializar em inteligência artificial.
+  Opa, tenho 20 anos, e sou de Tauá - CE, sou iniciante em programação, mas é algo que estou gostando muito de estudar, estou cursando Ciência da Computação na UFC e pretendo me especializar em inteligência artificial.
 </br>
 </br>
-  Hey, I'm 18 years old, and I'm from Tauá - CE. I'm a beginner in programming, but it's something I'm really enjoying studying. I'm studying Computer Science at UFC and I plan to specialize in artificial intelligence.
+  Hey, I'm 20 years old, and I'm from Tauá - CE. I'm a beginner in programming, but it's something I'm really enjoying studying. I'm studying Computer Science at UFC and I plan to specialize in artificial intelligence.
 </br>
   
 </div>
@@ -19,12 +19,13 @@
     <img height="65cm" loading="lazy" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
     <img height="65cm" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img height="65cm" loading="lazy" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
+  <img height="55cm" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" />
 </div>
-
 <div>
   <h2>Ferramentas 🛠:</h2>
-    <img height="65cm" loading="lazy" src="https://github.com/WillianSilva51/WillianSilva51/assets/161375086/993abfb3-5978-4623-bc0b-44cc42e6d65b"/>
     <img height="65cm" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
+    <img height="65cm" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />
+    <img height="65cm" loading="lazy" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
     <img height="65cm" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
     <img height="65cm" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
     <img height="65cm" loading="lazy" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />     
@@ -36,8 +37,6 @@
  ## Sobre Mim / About ME 💬 :
  
   <img loading="lazy" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
-
- <summary> <h3> Aprendendo / Learning :</h3> </summary>
  
 ```js
 import Desenvolvedor from "WillianSilva51";
@@ -46,8 +45,8 @@ class Estudos extends Desenvolvedor
 {
   ⚡ POO;
   ⚡ Algoritmos;
-  ⚡ Estruturas de Dados;
-  ⚡ JAVA & C++;
+  ⚡ Estruturas de Dados Avançada;
+  ⚡ JAVA && C++;
 }
 ```
 
@@ -60,9 +59,8 @@ class Estudos extends Desenvolvedor
  <img align="right" height="205cm" loading="lazy" src="https://media1.tenor.com/m/xZ5SDUwoDgYAAAAC/jojo-pose-jotaro.gif"/> 
 Se você quiser entrar em contato comigo sobre alguma dúvida, pode entrar em contato comigo, tentarei responder o mais rápido possível. 😉
 </br></br>
-  <a href="https://www.linkedin.com/in/willian-silva01/" target="_blank"><img loading="lazy" height="50cm"src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" target="_blank"></a>
   <a href="mailto:antonio.willian051@gmail.com" target="_blank"><img loading="lazy" height="50cm" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" target="_blank"></a>
-   <a href="https://steamcommunity.com/id/DARKSEID_X/" target="_blank"><img loading="lazy" height="50cm" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/willian-silva01/" target="_blank"><img loading="lazy" height="50cm"src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" target="_blank"></a>
 </div>
 </br></br>
 

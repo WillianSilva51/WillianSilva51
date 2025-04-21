@@ -3,7 +3,7 @@
 
 <div>
   
-  # Willian Silva🔥
+  # Willian Silva <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f525.gif" width="40px">
   
   Opa, tenho 20 anos, e sou de Tauá - CE, sou iniciante em programação, mas é algo que estou gostando muito de estudar, estou cursando Ciência da Computação na UFC e pretendo me especializar em inteligência artificial.
 </br>
@@ -14,7 +14,7 @@
 </div>
 
 <div>
-  <h2>Linguagens 👨‍💻:</h2>
+  <h2>👨‍💻 Linguagens</h2>
     <img height="65cm" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
     <img height="65cm" loading="lazy" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
     <img height="65cm" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -22,7 +22,7 @@
   <img height="55cm" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" />
 </div>
 <div>
-  <h2>Ferramentas 🛠:</h2>
+  <h2>🛠 Ferramentas</h2>
     <img height="65cm" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
     <img height="65cm" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />
     <img height="65cm" loading="lazy" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
@@ -34,7 +34,7 @@
 
 <div>
 
- ## Sobre Mim / About ME 💬 :
+ ## 💬 Sobre Mim
  
   <img loading="lazy" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
  
@@ -55,18 +55,18 @@ class Estudos extends Desenvolvedor
 
 <div>
   
-## Contate-me / Contact Me 📱 :
+## 📱 Contate-me
  <img align="right" height="205cm" loading="lazy" src="https://media1.tenor.com/m/xZ5SDUwoDgYAAAAC/jojo-pose-jotaro.gif"/> 
 Se você quiser entrar em contato comigo sobre alguma dúvida, pode entrar em contato comigo, tentarei responder o mais rápido possível. 😉
 </br></br>
-  <a href="mailto:antonio.willian051@gmail.com" target="_blank"><img loading="lazy" height="50cm" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/willian-silva01/" target="_blank"><img loading="lazy" height="50cm"src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" target="_blank"></a>
+  <a href="mailto:antonio.willian051@gmail.com" target="_blank"><img loading="lazy" height="50cm" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/willian-silva01/" target="_blank"><img loading="lazy" height="50cm"src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 </br></br>
 
 <div>
   
-  ## GitHub Analytics ⚙️
+  ## ⚙️ GitHub Analytics
 <table>
   <tr>
     <td>

@@ -20,10 +20,10 @@ Willian Silva
 ### 🚀 Meus Projetos em Destaque
 
 <div align="center">
-<a href="Dictionary" target="_blank">
+<a href="https://github.com/WillianSilva51/Dictionary" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WillianSilva51&repo=Dictionary&theme=codeSTACKr" />
 </a>
-<a href="Termux_Assistant" target="_blank">
+<a href="https://github.com/WillianSilva51/TermuxAssistant" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WillianSilva51&repo=TermuxAssistant&theme=codeSTACKr" />
 </a>
 </div>
@@ -53,8 +53,8 @@ Willian Silva
 <summary><b>📊 Minhas Estatísticas no GitHub</b> (Clique para expandir)</summary>
 <br>
   <div align="center">
-    <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=WillianSilva51&theme=codeSTACKr&show_icons=true&include_all_commits=true&count_private=true" alt="Estatísticas do Github"/>
     <img loading="lazy" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianSilva51&layout=compact&langs_count=7&theme=codeSTACKr" alt="Linguagens mais usadas"/>
+    <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=WillianSilva51&theme=codeSTACKr&show_icons=true&include_all_commits=true&count_private=true" alt="Estatísticas do Github"/>
     <img loading="lazy" src="https://github-readme-streak-stats.herokuapp.com/?user=WillianSilva51&theme=codeSTACKr&hide_border=false" alt="Sequência de Contribuições no GitHub"/>
   </div>
 </details>
@@ -65,9 +65,9 @@ Willian Silva
 Sinta-se à vontade para se conectar ou tirar alguma dúvida! 😉
 <br><br>
 <a href="mailto:antonio.willian051@gmail.com" target="_blank">
-<img loading="lazy" height="40px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+<img loading="lazy" height="50px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
 <a href="https://www.linkedin.com/in/willian-silva01/" target="_blank">
-<img loading="lazy" height="40px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+<img loading="lazy" height="50px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
 </p>

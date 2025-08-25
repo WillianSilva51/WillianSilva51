@@ -47,14 +47,21 @@ Willian Silva
   [![My Skills](https://skillicons.dev/icons?i=vscode,idea,linux,windows,git,github,notion,docker,postgres)](https://skillicons.dev)
 
 </p>
+
+<h4>🌱 Atualmente Aprendendo</h4>
+<p>
+  
+  [![My Skills](https://skillicons.dev/icons?i=spring,docker,postgres,bash)](https://skillicons.dev)
+
+</p>
 </details>
 
 <details>
 <summary><b>📊 Minhas Estatísticas no GitHub</b> (Clique para expandir)</summary>
 <br>
   <div align="center">
-    <img loading="lazy" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianSilva51&layout=compact&langs_count=7&theme=codeSTACKr" alt="Linguagens mais usadas"/>
     <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=WillianSilva51&theme=codeSTACKr&show_icons=true&include_all_commits=true&count_private=true" alt="Estatísticas do Github"/>
+    <img loading="lazy" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianSilva51&layout=compact&langs_count=7&theme=codeSTACKr" alt="Linguagens mais usadas"/>
     <img loading="lazy" src="https://github-readme-streak-stats.herokuapp.com/?user=WillianSilva51&theme=codeSTACKr&hide_border=false" alt="Sequência de Contribuições no GitHub"/>
   </div>
 </details>

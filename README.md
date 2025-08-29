@@ -62,7 +62,7 @@
     <div align="center">
         <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=WillianSilva51&theme=codeSTACKr&show_icons=true&include_all_commits=true&count_private=true" alt="Estatísticas do Github"/>
         <img loading="lazy" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianSilva51&layout=compact&langs_count=7&theme=codeSTACKr" alt="Linguagens mais usadas"/>
-        <img loading="lazy" src="https://github-readme-streak-stats.herokuapp.com/?user=WillianSilva51&theme=codeSTACKr&hide_border=false" alt="Sequência de Contribuições no GitHub"/>
+        <img loading="lazy" src="https://streak-stats.demolab.com/?user=WillianSilva51&theme=codeSTACKr&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="Sequência de Contribuições no GitHub"/>
     </div>
 </details>
 

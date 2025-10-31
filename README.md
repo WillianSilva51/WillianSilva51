@@ -23,8 +23,8 @@
     <a href="https://github.com/WillianSilva51/Dictionary" target="_blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WillianSilva51&repo=Dictionary&theme=codeSTACKr" />
     </a>
-    <a href="https://github.com/WillianSilva51/TermuxAssistant" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WillianSilva51&repo=TermuxAssistant&theme=codeSTACKr" />
+    <a href="https://github.com/WillianSilva51/ToDo-List-API" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WillianSilva51&repo=ToDO-List-API&theme=codeSTACKr" />
     </a>
 </div>
 

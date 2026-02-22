@@ -27,11 +27,12 @@
     </a>
 </div>
 
-<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <details>
     <summary><b>🛠️ Minha Tech Stack</b> (Clique para expandir)</summary>
-    <br>
     <h4>🚀 Stack Principal (Backend)</h4>
     <p>
         <a href="https://skillicons.dev">
@@ -60,14 +61,29 @@
 </details>
 
 <details>
-    <summary><b>📊 Minhas Estatísticas no GitHub</b> (Clique para expandir)</summary>
-    <br>
-    <div align="center">
-        <img loading="lazy" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WillianSilva51&theme=radical&show_icons=true&include_all_commits=true&count_private=true" alt="Estatísticas do Github"/>
-        <br>
-        <img loading="lazy" height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WillianSilva51&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas"/>
-        <img loading="lazy" src="https://streak-stats.demolab.com/?user=WillianSilva51&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="Sequência de Contribuições no GitHub"/>
-    </div>
+  <summary><b>📊 Minhas Estatísticas no GitHub</b> (Clique para expandir)</summary>
+  <br>
+  
+  <div align="center">
+    <table border="0">
+      <tr>
+        <td width="50%" align="center">
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=WillianSilva51&theme=radical&show_icons=true&include_all_commits=true&count_private=true" height="190px" alt="Estatísticas do Github"/>
+        </td>
+        <td width="50%" align="center">
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WillianSilva51&layout=compact&langs_count=7&theme=radical" height="190px" alt="Linguagens mais usadas"/>
+        </td>
+      </tr>
+    </table>
+    <table border="0">
+      <tr>
+        <td width="100%" align="center">
+          <img src="https://streak-stats.demolab.com/?user=WillianSilva51&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D" height="180px" alt="Sequência de Contribuições"/>
+        </td>
+      </tr>
+    </table>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=WillianSilva51&bg_color=141321&color=fe428e&line=fe428e&point=f8d847&area=true&hide_border=true" width="100%" alt="Github Activity Graph" />
+  </div>
 </details>
 
 ### 📫 Contate-me
@@ -87,5 +103,3 @@
       <img height="45px" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
   </a>
 </div>
-
-

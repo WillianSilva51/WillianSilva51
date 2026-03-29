@@ -23,7 +23,7 @@
         <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=WillianSilva51&repo=Zaldo&theme=radical&border_radius=10" alt="Projeto em Destaque 1" loading="lazy"/>
     </a>
     <a href="https://github.com/WillianSilva51/Dictionary" target="_blank" rel="noopener noreferrer">
-        <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=WillianSilva51&repo=Dictionary&theme=radical&border_radius=10" alt="Projeto em Destaque 1" loading="lazy"/>
+        <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=WillianSilva51&repo=Dictionary&theme=radical&border_radius=10" alt="Projeto em Destaque 2" loading="lazy"/>
     </a>
 </div>
 

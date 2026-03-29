@@ -5,11 +5,11 @@
 
   <h1>
         Willian Silva
-        <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f525.gif" width="40px" alt="fire emoji">
+        <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f525.gif" width="40px" alt="fire emoji" loading="lazy">
   </h1>
 
   <p>
-        <b>Estudante de Ciência da Computação na UFC (5º Semestre) | Aspirante a Desenvolvedor FullStack</b>
+        <strong>Estudante de Ciência da Computação na UFC (5º Semestre) | Aspirante a Desenvolvedor FullStack</strong>
         <br><br>
         <i>(PT-BR) Unindo o desenvolvimento Backend robusto com o potencial da Inteligência Artificial. Criador do Zaldo Bot e apaixonado por otimização de processos através do código.</i>
         <br>
@@ -17,18 +17,18 @@
   </p>
 </div>
 
-### 🚀 Meus Projetos em Destaque
+## 🚀 Meus Projetos em Destaque
 <div align="center">
-    <a href="https://github.com/WillianSilva51/Zaldo" target="_blank">
-        <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=WillianSilva51&repo=Zaldo&theme=radical&border_radius=10" />
+    <a href="https://github.com/WillianSilva51/Zaldo" target="_blank" rel="noopener noreferrer">
+        <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=WillianSilva51&repo=Zaldo&theme=radical&border_radius=10" alt="Projeto em Destaque 1" loading="lazy"/>
     </a>
-    <a href="https://github.com/WillianSilva51/Dictionary" target="_blank">
-        <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=WillianSilva51&repo=Dictionary&theme=radical&border_radius=10" />
+    <a href="https://github.com/WillianSilva51/Dictionary" target="_blank" rel="noopener noreferrer">
+        <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=WillianSilva51&repo=Dictionary&theme=radical&border_radius=10" alt="Projeto em Destaque 1" loading="lazy"/>
     </a>
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" loading="lazy" aria-hidden="true">
 </div>
 
 <details>
@@ -36,26 +36,26 @@
     <h4>🚀 Stack Principal (Backend)</h4>
     <p>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker&perline=10"/>
+            <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker&perline=10" loading="lazy"/>
         </a>
     </p>
     <h4>🌱 Atualmente Aprofundando</h4>
     <p>
         <i>Focando em Arquitetura de Software, Segurança e DevOps</i><br>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=spring,python,fastapi,redis,mongodb,bash,linux&perline=10"/>
+            <img src="https://skillicons.dev/icons?i=spring,python,fastapi,redis,mongodb,bash,linux&perline=10" loading="lazy"/>
         </a>
         </p>
     <h4>💻 Ferramentas & Ambiente</h4>
     <p>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,notion,postman,linux,windows&perline=10"/>
+            <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,notion,postman,linux,windows&perline=10" loading="lazy"/>
         </a>
     </p>
     <h4>📚 Base Acadêmica</h4>
     <p>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=c,cpp,haskell&perline=10"/>
+            <img src="https://skillicons.dev/icons?i=c,cpp,haskell&perline=10" loading="lazy"/>
         </a>
     </p>
 </details>
@@ -68,21 +68,21 @@
     <table border="0">
       <tr>
         <td width="55%" align="center">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=WillianSilva51&theme=radical&show_icons=true&include_all_commits=true&count_private=true" height="190px" alt="Estatísticas do Github"/>
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=WillianSilva51&theme=radical&show_icons=true&include_all_commits=true&count_private=true" height="190px" alt="Estatísticas do Github" loading="lazy"/>
         </td>
         <td width="55%" align="center">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WillianSilva51&layout=compact&langs_count=7&theme=radical" height="190px" alt="Linguagens mais usadas"/>
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WillianSilva51&layout=compact&langs_count=7&theme=radical" height="190px" alt="Linguagens mais usadas" loading="lazy"/>
         </td>
       </tr>
     </table>
     <table border="0">
       <tr>
         <td width="100%" align="center">
-          <img src="https://streak-stats.demolab.com/?user=WillianSilva51&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D" height="180px" alt="Sequência de Contribuições"/>
+          <img src="https://streak-stats.demolab.com/?user=WillianSilva51&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D" height="180px" alt="Sequência de Contribuições" loading="lazy"/>
         </td>
       </tr>
     </table>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=WillianSilva51&bg_color=141321&color=fe428e&line=fe428e&point=f8d847&area=true&hide_border=true" width="100%" alt="Github Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=WillianSilva51&bg_color=141321&color=fe428e&line=fe428e&point=f8d847&area=true&hide_border=true" width="100%" alt="Github Activity Graph" loading="lazy"/>
   </div>
 </details>
 
@@ -91,6 +91,7 @@
 <div align="center">
   <img loading="lazy" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um notebook" width="300px">
   <br>
+  <p>💬 Aberto a oportunidades de estágio ou projetos colaborativos!</p>
   <p>Sinta-se à vontade para se conectar ou tirar alguma dúvida! 😉</p>
   
   <a href="mailto:antonio.willian051@gmail.com" target="_blank" rel="noopener noreferrer">

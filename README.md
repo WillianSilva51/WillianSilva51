@@ -43,7 +43,7 @@
     <p>
         <i>Focando em Arquitetura de Software, Segurança e DevOps</i><br>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=spring,redis,mongodb,bash,linux&perline=10"/>
+            <img src="https://skillicons.dev/icons?i=spring,python,fastapi,redis,mongodb,bash,linux&perline=10"/>
         </a>
         </p>
     <h4>💻 Ferramentas & Ambiente</h4>
@@ -67,10 +67,10 @@
   <div align="center">
     <table border="0">
       <tr>
-        <td width="50%" align="center">
+        <td width="55%" align="center">
           <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=WillianSilva51&theme=radical&show_icons=true&include_all_commits=true&count_private=true" height="190px" alt="Estatísticas do Github"/>
         </td>
-        <td width="50%" align="center">
+        <td width="55%" align="center">
           <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WillianSilva51&layout=compact&langs_count=7&theme=radical" height="190px" alt="Linguagens mais usadas"/>
         </td>
       </tr>
@@ -89,17 +89,17 @@
 ### 📫 Contate-me
 
 <div align="center">
-  <img loading="lazy" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração" width="300px">
+  <img loading="lazy" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um notebook" width="300px">
   <br>
   <p>Sinta-se à vontade para se conectar ou tirar alguma dúvida! 😉</p>
   
-  <a href="mailto:antonio.willian051@gmail.com" target="_blank">
+  <a href="mailto:antonio.willian051@gmail.com" target="_blank" rel="noopener noreferrer">
       <img height="45px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/willian-silva01/" target="_blank">
+  <a href="https://www.linkedin.com/in/williansilva51" target="_blank" rel="noopener noreferrer">
       <img height="45px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://leetcode.com/williansilva51/" target="_blank">
+  <a href="https://leetcode.com/williansilva51/" target="_blank" rel="noopener noreferrer">
       <img height="45px" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
   </a>
 </div>

@@ -11,9 +11,9 @@
   <p>
         <strong>Estudante de Ciência da Computação na UFC (5º Semestre) | Aspirante a Desenvolvedor FullStack</strong>
         <br><br>
-        <i>(PT-BR) Unindo o desenvolvimento Backend robusto com o potencial da Inteligência Artificial. Criador do Zaldo Bot e apaixonado por otimização de processos através do código.</i>
+        <i>(PT-BR) Unindo o desenvolvimento Backend robusto com o potencial da Inteligência Artificial. <b>Criador do Zaldo Bot</b> e apaixonado por otimização de processos através do código.</i>
         <br>
-        <i>(EN-US) Merging robust Backend development with the potential of Artificial Intelligence. Creator of Zaldo Bot and passionate about process optimization through code.</i>
+        <i>(EN-US) Merging robust Backend development with the potential of Artificial Intelligence. <b>Creator of Zaldo Bot</b> and passionate about process optimization through code.</i>
   </p>
 </div>
 
@@ -86,13 +86,13 @@
   </div>
 </details>
 
-### 📫 Contate-me
+## 📫 Contate-me
 
 <div align="center">
   <img loading="lazy" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um notebook" width="300px">
   <br>
-  <p>💬 Aberto a oportunidades de estágio ou projetos colaborativos!</p>
-  <p>Sinta-se à vontade para se conectar ou tirar alguma dúvida! 😉</p>
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=800&color=6407F7&vCenter=true&width=800&lines=%F0%9F%92%AC+Aberto+a+oportunidades+de+est%C3%A1gio+ou+projetos+colaborativos!;+Sinta-se+%C3%A0+vontade+para+se+conectar+ou+tirar+alguma+d%C3%BAvida!+%F0%9F%98%89)](https://git.io/typing-svg)
   
   <a href="mailto:antonio.willian051@gmail.com" target="_blank" rel="noopener noreferrer">
       <img height="45px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">

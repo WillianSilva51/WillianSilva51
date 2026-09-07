@@ -9,7 +9,7 @@
   </h1>
 
   <p>
-        <strong>Estudante de Ciência da Computação na UFC (5º Semestre) | Aspirante a Desenvolvedor FullStack</strong>
+        <strong>Estudante de Ciência da Computação na UFC (6º Semestre) | Aspirante a Desenvolvedor FullStack</strong>
         <br><br>
         <i>(PT-BR) Unindo o desenvolvimento Backend robusto com o potencial da Inteligência Artificial. <b>Criador do Zaldo Bot</b> e apaixonado por otimização de processos através do código.</i>
         <br>
@@ -22,8 +22,8 @@
     <a href="https://github.com/WillianSilva51/Zaldo" target="_blank" rel="noopener noreferrer">
         <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=WillianSilva51&repo=Zaldo&theme=radical&border_radius=10" alt="Projeto em Destaque 1" loading="lazy"/>
     </a>
-    <a href="https://github.com/WillianSilva51/Dictionary" target="_blank" rel="noopener noreferrer">
-        <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=WillianSilva51&repo=Dictionary&theme=radical&border_radius=10" alt="Projeto em Destaque 2" loading="lazy"/>
+    <a href="https://github.com/WillianSilva51/Finfrases" target="_blank" rel="noopener noreferrer">
+        <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=WillianSilva51&repo=Finfrases&theme=radical&border_radius=10" alt="Projeto em Destaque 2" loading="lazy"/>
     </a>
 </div>
 

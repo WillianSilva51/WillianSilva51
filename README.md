@@ -9,21 +9,21 @@
   </h1>
 
   <p>
-        <strong>Estudante de Ciência da Computação na UFC (6º Semestre) | Aspirante a Desenvolvedor FullStack</strong>
+        <strong>Estudante de Ciência da Computação na UFC (6º Semestre) | Desenvolvedor Full Stack em Formação</strong>
         <br><br>
-        <i>(PT-BR) Unindo o desenvolvimento Backend robusto com o potencial da Inteligência Artificial. <b>Criador do Zaldo Bot</b> e apaixonado por otimização de processos através do código.</i>
+        <i>(PT-BR) Construindo aplicações backend robustas e explorando IA para automação e desenvolvimento de software. <b>Criador do Zaldo Bot</b> e apaixonado por otimizar processos através do código.</i>
         <br>
-        <i>(EN-US) Merging robust Backend development with the potential of Artificial Intelligence. <b>Creator of Zaldo Bot</b> and passionate about process optimization through code.</i>
+        <i>(EN-US) Building robust backend applications and exploring AI for automation and software development. <b>Creator of Zaldo Bot</b> and passionate about optimizing processes through code.</i>
   </p>
 </div>
 
-## 🚀 Meus Projetos em Destaque
+## 🚀 Projetos em Destaque
 <div align="center">
     <a href="https://github.com/WillianSilva51/Zaldo" target="_blank" rel="noopener noreferrer">
-        <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=WillianSilva51&repo=Zaldo&theme=radical&border_radius=10" alt="Projeto em Destaque 1" loading="lazy"/>
+        <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=WillianSilva51&repo=Zaldo&theme=radical&border_radius=10" alt="Zaldo - Bot de gerenciamento financeiro pessoal" loading="lazy"/>
     </a>
     <a href="https://github.com/WillianSilva51/Finfrases" target="_blank" rel="noopener noreferrer">
-        <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=WillianSilva51&repo=Finfrases&theme=radical&border_radius=10" alt="Projeto em Destaque 2" loading="lazy"/>
+        <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=WillianSilva51&repo=Finfrases&theme=radical&border_radius=10" alt="FinFrases - Aplicação web de frases" loading="lazy"/>
     </a>
 </div>
 
@@ -32,36 +32,36 @@
 </div>
 
 <details>
-    <summary><b>🛠️ Minha Tech Stack</b> (Clique para expandir)</summary>
-    <h4>🚀 Stack Principal (Backend)</h4>
+    <summary><b>🛠️ Tech Stack</b> (Clique para expandir)</summary>
+    <h4>🚀 Backend</h4>
     <p>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker&perline=10" loading="lazy"/>
+            <img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,redis,docker&perline=10" loading="lazy"/>
+        </a>
+    </p>
+    <h4>🪟 Frontend</h4>
+    <p>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs&perline=10" loading="lazy"/>
         </a>
     </p>
     <h4>🌱 Atualmente Aprofundando</h4>
     <p>
-        <i>Focando em Arquitetura de Software, Segurança e DevOps</i><br>
+        <i>Arquitetura de Software • Segurança • DevOps • Cloud</i><br>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=spring,python,fastapi,redis,mongodb,bash,linux&perline=10" loading="lazy"/>
+            <img src="https://skillicons.dev/icons?i=spring,python,fastapi,aws,bash,linux&perline=10" loading="lazy"/>
         </a>
         </p>
     <h4>💻 Ferramentas & Ambiente</h4>
     <p>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,notion,postman,linux,windows&perline=10" loading="lazy"/>
-        </a>
-    </p>
-    <h4>📚 Base Acadêmica</h4>
-    <p>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=c,cpp,haskell&perline=10" loading="lazy"/>
+            <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,notion,postman,linux&perline=10" loading="lazy"/>
         </a>
     </p>
 </details>
 
 <details>
-  <summary><b>📊 Minhas Estatísticas no GitHub</b> (Clique para expandir)</summary>
+  <summary><b>📊 Estatísticas no GitHub</b> (Clique para expandir)</summary>
   <br>
   
   <div align="center">
@@ -82,7 +82,6 @@
         </td>
       </tr>
     </table>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=WillianSilva51&bg_color=141321&color=fe428e&line=fe428e&point=f8d847&area=true&hide_border=true" width="100%" alt="Github Activity Graph" loading="lazy"/>
   </div>
 </details>
 
